@@ -22,7 +22,7 @@ width: 750px;
 .search-btn{
 
 color: #ffffff;
-float: left;
+float: center;
 width: 40px;
 height: 40px;
 border-radius: 50%;
@@ -45,11 +45,13 @@ background: none;
 outline: none;
 float: left;
 padding: 0;
-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);
 font-size: 16px;
 transition: 0.4s;
 line-height: 40px;
 width: 280px;
+position: relative;
+left: 70px;
 
 
 
