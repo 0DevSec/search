@@ -135,5 +135,23 @@ bottom: 35px;
     color: white;
     
   }
-  
+  /* Style the footer */
+footer {
+    background-color: #707793;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 600px;
+    height: 40px;
+  }
+  .foo{
+      background-color:#707793 ;
+      padding-top: 0.7%;
+  }
+  #Business{
+position: relative;
+left: 17px;
+
+  }
  
